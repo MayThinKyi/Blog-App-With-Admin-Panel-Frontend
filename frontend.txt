@@ -1,0 +1,4 @@
+//Documentation for Blog App
+//Frontend 
+-Logo Direct link goes to home(index.html)
+//Dashboard =>Manage User
